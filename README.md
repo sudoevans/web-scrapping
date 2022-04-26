@@ -1,14 +1,3 @@
-# twitter_scrapping
-<h1>Twitter data scrapping with Apify</h1>
- * Latest Tweets
- * Retweets
- * People 
- * Photos
- * Videos
- * Profile 
- * views
- * Retweet counts
- * Like counts
-....
+# Web scrapping with Beautiful Soup 4
 
-Done 
+The script will loop through a defined number of pages to extract footballer data. 
